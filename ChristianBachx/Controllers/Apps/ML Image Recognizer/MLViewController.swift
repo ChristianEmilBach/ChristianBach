@@ -32,7 +32,7 @@ class MLViewController: UIViewController, UIImagePickerControllerDelegate, UINav
         
         view.setGradientBackground(colorOne: UIColor.white, colorTwo: UIColor.white)
         
-        //Hide show again scene
+        //Hide show again scene 
         tapToTryAgain.isHidden = true
         tryAgainArrow.isHidden = true
         

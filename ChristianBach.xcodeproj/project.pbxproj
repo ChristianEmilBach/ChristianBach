@@ -93,7 +93,7 @@
 		BB574BE4236ED281009CE9FB = {
 			isa = PBXGroup;
 			children = (
-				BB574BEF236ED281009CE9FB /* ChristianBach */,
+				BB574BEF236ED281009CE9FB /* ChristianBachx */,
 				BB574BEE236ED281009CE9FB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -106,7 +106,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BB574BEF236ED281009CE9FB /* ChristianBach */ = {
+		BB574BEF236ED281009CE9FB /* ChristianBachx */ = {
 			isa = PBXGroup;
 			children = (
 				BB37FB38238D1DA8004892E5 /* GIPHY */,
@@ -121,7 +121,7 @@
 				BB574BFC236ED284009CE9FB /* Info.plist */,
 				BBC35F992389CFA00092D573 /* Colors.swift */,
 			);
-			path = ChristianBach;
+			path = ChristianBachx;
 			sourceTree = "<group>";
 		};
 		BBC35F7D23840C5F0092D573 /* ML Model */ = {

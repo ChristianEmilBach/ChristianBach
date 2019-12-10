@@ -26,7 +26,7 @@ class ViewController: UIViewController, MFMailComposeViewControllerDelegate {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     
-        nameLabel.font = UIFont(name: "Pacifico-Regular", size: 40.0)
+        nameLabel.font = UIFont(name: "Pacifico-Regular", size: 10.0)
         let tap = UITapGestureRecognizer(target: self, action: #selector(self.presentAboutMe(_:)))
         aboutmeView.addGestureRecognizer(tap)
         
